@@ -7,5 +7,6 @@ public class Main {
 
         System.out.println("Hello");
         System.out.println("Weather is sunny");
+        System.out.println("Its November 10");
     }
 }
